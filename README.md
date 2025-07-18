@@ -137,4 +137,12 @@ curl -X POST http://localhost:5001/api/chat \
 ---
 
 **✨ Genius — Your multilingual AI assistant at your command!**
-```
+
+## 🖼️ Demo Screenshots
+
+Here are some demo images of **Genius AI Assistant** in action:
+
+![Demo Screenshot 1](images/demo2.png)
+![Demo Screenshot 2](images/demo3.png)
+![Demo Screenshot 3](images/demo4.png)
+![Demo Screenshot 4](images/demo5.png)
