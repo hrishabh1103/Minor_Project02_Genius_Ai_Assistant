@@ -142,7 +142,7 @@ curl -X POST http://localhost:5001/api/chat \
 
 Here are some demo images of **Genius AI Assistant** in action:
 
-![Demo Screenshot 1](Images/demo2.png)
-![Demo Screenshot 2](Images/demo3.png)
-![Demo Screenshot 3](Images/demo4.png)
-![Demo Screenshot 4](Images/demo5.png)
+![Demo Screenshot 1](Images/Demo2.png)
+![Demo Screenshot 2](Images/Demo3.png)
+![Demo Screenshot 3](Images/Demo4.png)
+![Demo Screenshot 4](Images/Demo5.png)
